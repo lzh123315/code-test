@@ -1,0 +1,3 @@
+/home/lzh/code-test/lamba_cppad_test/CMakeFiles/rebuild_cache.dir
+/home/lzh/code-test/lamba_cppad_test/CMakeFiles/ipopt_test.dir
+/home/lzh/code-test/lamba_cppad_test/CMakeFiles/edit_cache.dir
