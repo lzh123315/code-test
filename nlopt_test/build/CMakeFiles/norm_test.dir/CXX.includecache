@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lzh/code_study/nlopt_test/norm_test.cpp
+cmath
+-
+random
+-
+eigen3/Eigen/Core
+-
+nlopt.hpp
+-
+iostream
+-
+mgl2/fltk.h
+-
+

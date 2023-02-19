@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/example.cpp.o  -o main  -L/home/lzh/third_party/OOQP/lib -Wl,-rpath,/home/lzh/third_party/OOQP/lib -looqpgensparse -looqpsparse -looqpgondzio -looqpbase -lblas -lma27 -lgfortran 

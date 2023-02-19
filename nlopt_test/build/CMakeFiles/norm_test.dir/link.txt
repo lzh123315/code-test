@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/norm_test.dir/norm_test.cpp.o  -o norm_test -lnlopt -lmgl 
