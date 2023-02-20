@@ -78,5 +78,6 @@
         "typeindex": "cpp",
         "variant": "cpp",
         "bit": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/boost_geometry"
 }

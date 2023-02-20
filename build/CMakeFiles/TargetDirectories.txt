@@ -1,0 +1,3 @@
+D:/code-test/build/CMakeFiles/boost_geometry_test.dir
+D:/code-test/build/CMakeFiles/ALL_BUILD.dir
+D:/code-test/build/CMakeFiles/ZERO_CHECK.dir
