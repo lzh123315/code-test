@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/ipopt_test.dir/test.cpp.o  -o ipopt_test  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lipopt 
+/usr/bin/c++ -g CMakeFiles/ipopt_test.dir/test.cpp.o -o ipopt_test   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lipopt 

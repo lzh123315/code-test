@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/main.dir/main.cpp.o -o main   -L/opt/gurobi1001/linux64/lib  -Wl,-rpath,/opt/gurobi1001/linux64/lib /opt/gurobi1001/linux64/lib/libgurobi_c++.a -lgurobi100 

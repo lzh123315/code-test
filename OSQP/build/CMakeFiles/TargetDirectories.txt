@@ -1,3 +1,4 @@
-/home/lzh/code_study/OSQP/build/CMakeFiles/rebuild_cache.dir
-/home/lzh/code_study/OSQP/build/CMakeFiles/main.dir
-/home/lzh/code_study/OSQP/build/CMakeFiles/edit_cache.dir
+/home/lzh/code-test/OSQP/build/CMakeFiles/main.dir
+/home/lzh/code-test/OSQP/build/CMakeFiles/eigen_value.dir
+/home/lzh/code-test/OSQP/build/CMakeFiles/edit_cache.dir
+/home/lzh/code-test/OSQP/build/CMakeFiles/rebuild_cache.dir

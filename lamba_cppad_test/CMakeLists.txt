@@ -3,6 +3,7 @@ cmake_minimum_required (VERSION 3.5)
 project(ipopt_test)
 
 set(CXX_STANDARD 17)
+set(CMAKE_BUILD_TYPE Debug)
 set(sources test.cpp)
 
 find_package(Eigen3 REQUIRED)

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/qcp.dir/qcp.cpp.o -o qcp   -L/opt/gurobi1001/linux64/lib  -Wl,-rpath,/opt/gurobi1001/linux64/lib /opt/gurobi1001/linux64/lib/libgurobi_c++.a -lgurobi100 

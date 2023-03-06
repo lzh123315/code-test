@@ -77,7 +77,9 @@
         "mutex": "cpp",
         "typeindex": "cpp",
         "variant": "cpp",
-        "bit": "cpp"
+        "bit": "cpp",
+        "unordered_set": "cpp",
+        "shared_mutex": "cpp"
     },
     "cmake.sourceDirectory": "${workspaceFolder}/boost_geometry"
 }

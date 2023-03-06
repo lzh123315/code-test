@@ -1,0 +1,4 @@
+/home/lzh/code-test/gurobi/build/CMakeFiles/qcp.dir
+/home/lzh/code-test/gurobi/build/CMakeFiles/dense.dir
+/home/lzh/code-test/gurobi/build/CMakeFiles/edit_cache.dir
+/home/lzh/code-test/gurobi/build/CMakeFiles/rebuild_cache.dir

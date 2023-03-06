@@ -5,7 +5,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/math_gl_test/mgl_exe1",
+            "program": "${workspaceFolder}/lamba_cppad_test/build/ipopt_test",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
@@ -19,12 +19,11 @@
                     "ignoreFailures": true
                 },
                 {
-                    "description":  "Set Disassembly Flavor to Intel",
+                    "description": "Set Disassembly Flavor to Intel",
                     "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }
             ]
         },
-      
     ]
-  }
+}
